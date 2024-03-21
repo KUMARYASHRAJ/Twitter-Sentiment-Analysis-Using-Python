@@ -5,4 +5,5 @@ This project is a simple Python-based Twitter sentiment analysis tool that allow
 Overview
 Twitter has become a massive platform for expressing opinions and sentiments on various topics.
 
-<h4>Feel Free to Contribute</h4>
+<h4>Feel Free to Contribute:-
+Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.</h4>
