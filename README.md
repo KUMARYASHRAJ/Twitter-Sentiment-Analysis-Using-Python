@@ -2,5 +2,7 @@
 
 This project is a simple Python-based Twitter sentiment analysis tool that allows users to analyze the sentiment of tweets related to specific topics or hashtags.
 
+Overview
+Twitter has become a massive platform for expressing opinions and sentiments on various topics.
 
 <h4>Feel Free to Contribute</h4>
